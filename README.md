@@ -14,7 +14,7 @@ Note that this notebook can and should be opened directly in [Colab](https://col
 This is the usual slide-based presentation, exported to PDF format: [ExecutiveSummary.pdf](ExecutiveSummary.pdf).
 
 ### Model Files
-The model I create and train in has been saved at two checkpoints:
+The model I create and train in [mod4-project.ipynb](mod4-project.ipynb) has been saved at two checkpoints:
 - the one with the best (highest) *validation accuracy* has been saved to [best_val_acc_model.hdf5](best_val_acc_model.hdf5)
 - the one with the best (lowest) *validation loss* has been saved to [best_val_loss_model.hdf5](best_val_loss_model.hdf5)
 
