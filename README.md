@@ -1,6 +1,6 @@
 # Module 4 Final Project
 
-**Problem of Choice**: *Image Classification with Deep Learning*
+**Problem**: *Pediatric Pneumonia X-Ray Image Classification with Deep Learning (Convolutional Neural Network)*
 
 
 ## Organization of Repository
