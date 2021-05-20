@@ -330,7 +330,7 @@ Additionally, we adopt a performance-based learning-rate scheduler scheme, where
     weighted avg       0.90      0.88      0.88       624
     
 
-Obviously, we would prefer to have fewer False Negatives than False Positives in this case, since the goal is to diagnose a potentially fatal medical condition.  Thus, we conclude this is a superior model since it predicts only 2 False Negatives out of 390 occurrences and 71 False Positives out of 234 from the *Test* set.
+Obviously, we would prefer to have fewer False Negatives than False Positives in this case, since the goal is to diagnose a potentially fatal medical condition.  Thus, we conclude this is a superior model since it predicts only 2 False out of 234 True Negatives and 71 False out of 390 True Positives from the *Test* set.
 
 ### To conclude, visually display an example of how convolutions in the model select features from images
 
